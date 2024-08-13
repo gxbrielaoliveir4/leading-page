@@ -52,3 +52,24 @@ body{
     border: none;
     background: #e72929;
 }
+.header{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+}
+.headline{
+    flex: 40%;
+    margin-left: 10%;
+}
+.headline h2{
+    font-weight: 900;
+    font-size: 20px;
+    color: #180f4a;
+    padding: 0;
+    margin: 0;
+}
+.headline p{
+    color: gray;
+    text-align: left;
+}
