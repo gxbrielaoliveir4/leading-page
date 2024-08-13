@@ -73,3 +73,20 @@ body{
     color: gray;
     text-align: left;
 }
+.img-headline{
+    margin-right: 10%;
+    flex: 40%;
+    text-align: center;
+}
+.contact-btn{
+    display: inline-block;
+    background: #e72929;
+    padding: 20px;
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.contact-btn:hover{
+    background: #180f4a;
+}
